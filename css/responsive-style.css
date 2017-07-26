@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+	[class*="col-"] {
+		width: 100%;
+	}
+	#navegacao span,
+	#navegacao ul li {
+		font-size: 0.75em;
+	}
+	#sigla {
+		display: none;
+	}
+	#barra_lateral {
+		display: none;
+	}
+	#s_conteudo {
+		width: 100%;
+	}
+	#foto-perfil {
+		display: none;
+	}
+
+}

@@ -6,11 +6,15 @@
 	#navegacao ul li {
 		font-size: 0.75em;
 	}
+	.abrirMenu {
+		display: inline-block;
+	}
 	#sigla {
 		display: none;
 	}
-	#barra_lateral {
+	.barra_lateral {
 		display: none;
+		min-width: 45%;
 	}
 	#s_conteudo {
 		width: 100%;
